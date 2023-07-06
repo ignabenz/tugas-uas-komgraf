@@ -1,13 +1,14 @@
-# TUGAS_UAS_KOMPUTER GRAFIK
+# TUGAS UAS KOMPUTER GRAFIK
 ## Dwi Putra Espy Bendanu - 201011402248
-Membuat aplikasi image trim dengan python
 
-## Screenshoot
-### Form Upload Image
-![enter image description here](https://github.com/ignabenz/tugas-uas-komgraf/main/assets/form.jpg?raw=true)
-### Form Crop Image
-![enter image description here](https://github.com/ignabenz/tugas-uas-komgraf/main/assets/crop.jpg?raw=true)
-### Result Cropped Image
-![enter image description here](https://github.com/ignabenz/tugas-uas-komgraf/main/assets/result.jpg?raw=true)
-#### Save Crop Image
-![enter image description here](https://github.com/ignabenz/tugas-uas-komgraf/main/assets/save.jpg?raw=true)
+# Membuat Aplikasi ImageTrim dengan Python
+
+## Hasil Tangkapan Layar
+### Formulir Submit Gambar
+![enter image description here](https://github.com/ignabenz/tugas-uas-komgraf/blob/main/assets/form.jpg?raw=true)
+### Formulir Potong Gambar
+![enter image description here](https://github.com/ignabenz/tugas-uas-komgraf/blob/main/assets/crop.jpg?raw=true)
+### Hasil Potong Gambar
+![enter image description here](https://github.com/ignabenz/tugas-uas-komgraf/blob/main/assets/result.jpg?raw=true)
+### Simpan Hasil Potong Gambar
+![enter image description here](https://github.com/ignabenz/tugas-uas-komgraf/blob/main/assets/save.jpg?raw=true)
